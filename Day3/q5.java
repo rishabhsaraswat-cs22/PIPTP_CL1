@@ -11,8 +11,8 @@ public class q5 {
             return;
         }
     
-        help(n - 1);
-        System.out.print(n + " ");
-        help(n - 1);
+        help(n-1);
+        System.out.print(n+ " ");
+        help(n-1);
     }
 }
